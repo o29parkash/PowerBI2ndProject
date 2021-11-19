@@ -2,3 +2,5 @@
 2nd sample project from microsoft online tutorial
 link:
 https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-dimensional-model-report#get-data-download-the-sample
+
+Further steps to improve familiarization with Power BI interface
